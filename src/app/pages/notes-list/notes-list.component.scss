@@ -1,0 +1,13 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+
+  max-width: 500px;
+
+  margin: auto;
+  padding-top: 50px;
+}
+
+.note-list {
+  margin-top: 35px;
+}
